@@ -1,0 +1,16 @@
+
+Flask==3.0.3
+fonttools==4.53.1
+idna==3.7
+importlib_resources==6.4.0
+inflection==0.5.1
+numpy==2.0.0
+pandas==2.2.2
+pillow==10.4.0
+pyparsing==3.1.2
+pytz==2024.1
+pywin32==306
+requests==2.32.3
+scikit-learn==1.5.1
+
+
